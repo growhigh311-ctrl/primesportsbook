@@ -1,0 +1,7 @@
+# robots.txt for PrimeSportsBook
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /drafts/
+
+Sitemap: https://primesportsbook.com/sitemap.xml
