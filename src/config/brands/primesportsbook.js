@@ -5,8 +5,8 @@ export default {
   "theme": "primesportsbook",
   "color": "Red + Black",
   "domain": "primesportsbook.com",
-  "phone": "+91 98765 43215",
-  "whatsapp": "+91 98765 43215",
+  "phone": "+91 7589045547",
+  "whatsapp": "+91 7589045547",
   "telegram": "@PrimeSportsBook_Official",
   "tagline": "Premium Betting & Sports Exchange Arena",
   "seo": {
